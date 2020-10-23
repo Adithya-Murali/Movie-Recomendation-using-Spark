@@ -1,4 +1,4 @@
-# Movie-Recomendation-using-Spark
+# Movie Recomendation using Apache Spark
 Implemented item-based collaborative filtering manually to recommend movies using Apache Spark for distributed computation (Big data).
 Utilises user ratings of the movies as well as genre information to recommend movies.
 
