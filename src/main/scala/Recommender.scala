@@ -24,7 +24,7 @@ object Recommender {
     }
 
     val session = SparkSession.builder
-      .master("local[4]")   //To be commented for cluster run
+//       .master("local[4]")   //To be uncommented for local run
       .appName("MyRecommendation")
       .getOrCreate()
 
